@@ -1,0 +1,16 @@
+[Username]
+username=The Empty
+[Password]
+1=01864977437
+2=0964377428
+3=0903343305
+4=Crazycraft.56
+5=Toan1234
+[Phone]
+phonenumber=0933718070
+[Email]
+1=toangaming.203@gmail.com
+2=toangaming.23@gmail.com
+3=21130569@st.hcmuaf.edu.vn
+[Student]
+code=21130569
