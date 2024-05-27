@@ -1,16 +1,16 @@
 [Username]
 username=The Empty
 [Password]
-1=01864977437
-2=0964377428
-3=0903343305
-4=Crazycraft.56
-5=Toan1234
+1=*********
+2=*********
+3=*********
+4=*********
+5=T*********
 [Phone]
-phonenumber=0933718070
+phonenumber=*********
 [Email]
 1=toangaming.203@gmail.com
 2=toangaming.23@gmail.com
-3=21130569@st.hcmuaf.edu.vn
+3=*********
 [Student]
-code=21130569
+code=*********
